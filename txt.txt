@@ -1,0 +1,3 @@
+sass --watch sass/styles.sass:css/style.css 
+
+background-image: linear-gradient(to top, #09203f 0%, #537895 100%)
